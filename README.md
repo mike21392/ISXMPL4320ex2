@@ -1,0 +1,2 @@
+# ISXMPL4320ex2
+IS4320 ISOLATED RS485 Schematic Design Exemple
